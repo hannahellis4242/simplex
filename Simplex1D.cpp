@@ -1,4 +1,4 @@
-#include Simplex1D
+#include "Simplex1D.h"
 #include <algorithm>
 
 namespace simplex

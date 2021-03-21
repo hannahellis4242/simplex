@@ -12,6 +12,6 @@ public:
 	double min() const ;
 	double max() const ;
 	double size() const ; 
-}
+};
 }
 #endif
